@@ -1,0 +1,44 @@
+E:\Docs\January\Authetication and Authorization\IdentityServer\IdentityServer\IdentityServer\bin\Debug\netcoreapp2.0\IdentityServer.deps.json
+E:\Docs\January\Authetication and Authorization\IdentityServer\IdentityServer\IdentityServer\bin\Debug\netcoreapp2.0\IdentityServer.runtimeconfig.json
+E:\Docs\January\Authetication and Authorization\IdentityServer\IdentityServer\IdentityServer\bin\Debug\netcoreapp2.0\IdentityServer.runtimeconfig.dev.json
+E:\Docs\January\Authetication and Authorization\IdentityServer\IdentityServer\IdentityServer\bin\Debug\netcoreapp2.0\IdentityServer.dll
+E:\Docs\January\Authetication and Authorization\IdentityServer\IdentityServer\IdentityServer\obj\Debug\netcoreapp2.0\IdentityServer.csprojResolveAssemblyReference.cache
+E:\Docs\January\Authetication and Authorization\IdentityServer\IdentityServer\IdentityServer\obj\Debug\netcoreapp2.0\IdentityServer.csproj.CoreCompileInputs.cache
+E:\Docs\January\Authetication and Authorization\IdentityServer\IdentityServer\IdentityServer\obj\Debug\netcoreapp2.0\IdentityServer.AssemblyInfoInputs.cache
+E:\Docs\January\Authetication and Authorization\IdentityServer\IdentityServer\IdentityServer\obj\Debug\netcoreapp2.0\IdentityServer.AssemblyInfo.cs
+E:\Docs\January\Authetication and Authorization\IdentityServer\IdentityServer\IdentityServer\bin\Debug\netcoreapp2.0\IdentityServer.pdb
+E:\Docs\January\Authetication and Authorization\IdentityServer\IdentityServer\IdentityServer\obj\Debug\netcoreapp2.0\IdentityServer.dll
+E:\Docs\January\Authetication and Authorization\IdentityServer\IdentityServer\IdentityServer\obj\Debug\netcoreapp2.0\IdentityServer.pdb
+F:\MyWorks\Authentication-and-Authorization-master\IdentityServer\IdentityServer\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+F:\MyWorks\Authentication-and-Authorization-master\IdentityServer\IdentityServer\bin\Debug\netcoreapp2.0\IdentityServer.deps.json
+F:\MyWorks\Authentication-and-Authorization-master\IdentityServer\IdentityServer\bin\Debug\netcoreapp2.0\IdentityServer.runtimeconfig.json
+F:\MyWorks\Authentication-and-Authorization-master\IdentityServer\IdentityServer\bin\Debug\netcoreapp2.0\IdentityServer.runtimeconfig.dev.json
+F:\MyWorks\Authentication-and-Authorization-master\IdentityServer\IdentityServer\bin\Debug\netcoreapp2.0\IdentityServer.dll
+F:\MyWorks\Authentication-and-Authorization-master\IdentityServer\IdentityServer\bin\Debug\netcoreapp2.0\IdentityServer.pdb
+F:\MyWorks\Authentication-and-Authorization-master\IdentityServer\IdentityServer\obj\Debug\netcoreapp2.0\IdentityServer.csprojAssemblyReference.cache
+F:\MyWorks\Authentication-and-Authorization-master\IdentityServer\IdentityServer\obj\Debug\netcoreapp2.0\IdentityServer.AssemblyInfoInputs.cache
+F:\MyWorks\Authentication-and-Authorization-master\IdentityServer\IdentityServer\obj\Debug\netcoreapp2.0\IdentityServer.AssemblyInfo.cs
+F:\MyWorks\Authentication-and-Authorization-master\IdentityServer\IdentityServer\obj\Debug\netcoreapp2.0\IdentityServer.dll
+F:\MyWorks\Authentication-and-Authorization-master\IdentityServer\IdentityServer\obj\Debug\netcoreapp2.0\IdentityServer.pdb
+C:\Users\Danila\Desktop\Authentication-and-Authorization-master\IdentityServer\IdentityServer\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\Users\Danila\Desktop\Authentication-and-Authorization-master\IdentityServer\IdentityServer\bin\Debug\netcoreapp2.0\IdentityServer.deps.json
+C:\Users\Danila\Desktop\Authentication-and-Authorization-master\IdentityServer\IdentityServer\bin\Debug\netcoreapp2.0\IdentityServer.runtimeconfig.json
+C:\Users\Danila\Desktop\Authentication-and-Authorization-master\IdentityServer\IdentityServer\bin\Debug\netcoreapp2.0\IdentityServer.runtimeconfig.dev.json
+C:\Users\Danila\Desktop\Authentication-and-Authorization-master\IdentityServer\IdentityServer\bin\Debug\netcoreapp2.0\IdentityServer.dll
+C:\Users\Danila\Desktop\Authentication-and-Authorization-master\IdentityServer\IdentityServer\bin\Debug\netcoreapp2.0\IdentityServer.pdb
+C:\Users\Danila\Desktop\Authentication-and-Authorization-master\IdentityServer\IdentityServer\obj\Debug\netcoreapp2.0\IdentityServer.csprojAssemblyReference.cache
+C:\Users\Danila\Desktop\Authentication-and-Authorization-master\IdentityServer\IdentityServer\obj\Debug\netcoreapp2.0\IdentityServer.AssemblyInfoInputs.cache
+C:\Users\Danila\Desktop\Authentication-and-Authorization-master\IdentityServer\IdentityServer\obj\Debug\netcoreapp2.0\IdentityServer.AssemblyInfo.cs
+C:\Users\Danila\Desktop\Authentication-and-Authorization-master\IdentityServer\IdentityServer\obj\Debug\netcoreapp2.0\IdentityServer.dll
+C:\Users\Danila\Desktop\Authentication-and-Authorization-master\IdentityServer\IdentityServer\obj\Debug\netcoreapp2.0\IdentityServer.pdb
+C:\Users\Danik\Desktop\Authentication-and-Authorization-master\IdentityServer\IdentityServer\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\Users\Danik\Desktop\Authentication-and-Authorization-master\IdentityServer\IdentityServer\bin\Debug\netcoreapp2.0\IdentityServer.deps.json
+C:\Users\Danik\Desktop\Authentication-and-Authorization-master\IdentityServer\IdentityServer\bin\Debug\netcoreapp2.0\IdentityServer.runtimeconfig.json
+C:\Users\Danik\Desktop\Authentication-and-Authorization-master\IdentityServer\IdentityServer\bin\Debug\netcoreapp2.0\IdentityServer.runtimeconfig.dev.json
+C:\Users\Danik\Desktop\Authentication-and-Authorization-master\IdentityServer\IdentityServer\bin\Debug\netcoreapp2.0\IdentityServer.dll
+C:\Users\Danik\Desktop\Authentication-and-Authorization-master\IdentityServer\IdentityServer\bin\Debug\netcoreapp2.0\IdentityServer.pdb
+C:\Users\Danik\Desktop\Authentication-and-Authorization-master\IdentityServer\IdentityServer\obj\Debug\netcoreapp2.0\IdentityServer.csprojAssemblyReference.cache
+C:\Users\Danik\Desktop\Authentication-and-Authorization-master\IdentityServer\IdentityServer\obj\Debug\netcoreapp2.0\IdentityServer.AssemblyInfoInputs.cache
+C:\Users\Danik\Desktop\Authentication-and-Authorization-master\IdentityServer\IdentityServer\obj\Debug\netcoreapp2.0\IdentityServer.AssemblyInfo.cs
+C:\Users\Danik\Desktop\Authentication-and-Authorization-master\IdentityServer\IdentityServer\obj\Debug\netcoreapp2.0\IdentityServer.dll
+C:\Users\Danik\Desktop\Authentication-and-Authorization-master\IdentityServer\IdentityServer\obj\Debug\netcoreapp2.0\IdentityServer.pdb
